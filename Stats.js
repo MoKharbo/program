@@ -4,7 +4,7 @@ let wanted = true;
 console.log("wanted: " + wanted);
 const age = 17;
 console.log("age: " + age);
-let speed = "1000";
+let speed = 1000;
 console.log("speed: " + speed);
 let power = "super speed";
 console.log("power: " + power);
